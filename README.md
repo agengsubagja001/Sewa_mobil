@@ -4,13 +4,6 @@
 
 ![preview img](/preview.png)
 
-## Donwload
-
-
-
-```bash
- 
-```
 
 Masuk ke folder dengan perintah
 
